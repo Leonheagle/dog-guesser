@@ -21,7 +21,7 @@ Dog Guesser est un jeu de quiz développé en Python. Le joueur doit identifier 
 Clonez le dépôt, puis ouvrez un terminal dans le dossier du projet :
 
 ```bash
-git clone URL_DU_DEPOT
+git clone [URL_DU_DEPOT](https://github.com/Leonheagle/dog-guesser)
 cd dog_guesser
 ```
 
